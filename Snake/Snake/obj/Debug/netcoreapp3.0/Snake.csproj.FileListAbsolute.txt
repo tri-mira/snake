@@ -1,0 +1,11 @@
+/Users/TM/CloudMail/GitHub/Snake/Snake/bin/Debug/netcoreapp3.0/Snake
+/Users/TM/CloudMail/GitHub/Snake/Snake/bin/Debug/netcoreapp3.0/Snake.deps.json
+/Users/TM/CloudMail/GitHub/Snake/Snake/bin/Debug/netcoreapp3.0/Snake.runtimeconfig.json
+/Users/TM/CloudMail/GitHub/Snake/Snake/bin/Debug/netcoreapp3.0/Snake.runtimeconfig.dev.json
+/Users/TM/CloudMail/GitHub/Snake/Snake/bin/Debug/netcoreapp3.0/Snake.dll
+/Users/TM/CloudMail/GitHub/Snake/Snake/bin/Debug/netcoreapp3.0/Snake.pdb
+/Users/TM/CloudMail/GitHub/Snake/Snake/obj/Debug/netcoreapp3.0/Snake.csprojAssemblyReference.cache
+/Users/TM/CloudMail/GitHub/Snake/Snake/obj/Debug/netcoreapp3.0/Snake.AssemblyInfoInputs.cache
+/Users/TM/CloudMail/GitHub/Snake/Snake/obj/Debug/netcoreapp3.0/Snake.AssemblyInfo.cs
+/Users/TM/CloudMail/GitHub/Snake/Snake/obj/Debug/netcoreapp3.0/Snake.dll
+/Users/TM/CloudMail/GitHub/Snake/Snake/obj/Debug/netcoreapp3.0/Snake.pdb
